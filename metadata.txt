@@ -1,0 +1,16 @@
+[general]
+name=VTK Importer
+qgisMinimumVersion=3.0
+description=Imports Velocitek .VTK files and converts them to CSV, GeoJSON or PostGIS
+version=1.0
+author=Custom Plugin
+email=your@email.com
+about=Reads binary .VTK files from Velocitek GPS devices (ProStart 2020+), converts them to CSV, GeoJSON, or loads them directly into a PostGIS database. Bundles the vtk_protocol library from github.com/velocitek/vtk_protocol.
+tracker=https://github.com/velocitek/vtk_protocol/issues
+repository=https://github.com/velocitek/vtk_protocol
+tags=vtk,velocitek,gps,sailing,postgis,geojson
+homepage=https://github.com/velocitek/vtk_protocol
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
