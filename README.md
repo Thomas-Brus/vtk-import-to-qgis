@@ -132,8 +132,7 @@ QGIS 4 introduces several changes that affect the plugin:
 
 ### What's Changing
 
-| Scope | QGIS 3
-x | QGIS 4.x | Adjustment required |
+| Scope | QGIS 3x | QGIS 4.x | Adjustment required |
 |---|---|---|---|
 | Qt version | Qt 5 | Qt 6 | Yes |
 | Python imports | `qgis.PyQt` | `qgis.PyQt` (remains) | No |
